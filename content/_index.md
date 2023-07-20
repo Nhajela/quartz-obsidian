@@ -1,6 +1,7 @@
 ---
-title: 🪴 Quartz 3.3
+title: Welcome to Oracle :) 
 enableToc: false
 ---
 
 Welcome to Naman's Site :) 
+[[Nice to meet you]]
