@@ -20,9 +20,19 @@ Career wise, here's what I genuinely want to do. afaik.
 		- My core value is in bringing loads of information and my understanding together into useful functional contextual chunks
 - Teach people - help people
 	- I want to do everything to empower people, especially ones who might be slightly less privileged than me, to give them the tools, information and understanding they need to conquer and gain freedom in today's abundant digital world.
+	- Varun Mayya's 'unfair advantage thing inspires me', I want to be the unfair advantage for all these people :) 
 
 
 This would mean - I also need to keep learning and exposing myself to different fields. 
 As that is the core competency of an inventor. To put together diverse fields - you need to learn about them deeply first. 
 
 Learning needs to be a core part of my weekly hour split. 
+
+-------
+
+This page and all others will keep updating as I grow!
+Here's to documenting my entire journey in public. 
+
+
+Cheers! 
+nmn
