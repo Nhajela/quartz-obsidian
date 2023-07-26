@@ -2,7 +2,7 @@
 ---
 title: "Day 1"
 tags:
-- DailyNmn (#dailynmn)
+- DailyNmn
 ---
 
 

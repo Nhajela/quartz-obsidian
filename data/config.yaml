@@ -1,7 +1,7 @@
 name: Naman Hajela
 enableToc: true
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
@@ -23,5 +23,5 @@ description:
 page_title:
   "Oracle 🤖"
 links:
-  - link_name: LinkedIn
+  - link_name: My LinkedIn Profile
     link: https://linkedin.com/in/heyNaman
